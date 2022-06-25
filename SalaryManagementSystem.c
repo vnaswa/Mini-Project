@@ -1,4 +1,3 @@
-# Mini-Project
 #include <stdio.h>
 #include <string.h>
 void add_employee();
